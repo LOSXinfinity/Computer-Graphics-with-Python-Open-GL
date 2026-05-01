@@ -1,0 +1,5 @@
+OpenGL/
+__pycache__/
+*.pyc
+.vscode/
+.idea/
