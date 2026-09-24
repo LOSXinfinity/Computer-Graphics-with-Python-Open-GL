@@ -22,11 +22,11 @@ A comprehensive collection of interactive 2D and 3D computer graphics projects a
 
 ### Highway Escape (3D Racing Game)
 
-| DX Box | Gameplay - Car View | Gameplay - Bus View |
+| DX Box | Catch the Diamonds | RPS Choose |
 |:-----------:|:-------------------:|:-------------------:|
 | ![Menu](screenshots/Screenshot%202026-09-24%20232900.png) | ![Car Gameplay](screenshots/Screenshot%202026-09-24%20232925.png) | ![Bus Gameplay](screenshots/Screenshot%202026-09-24%20232950.png) |
 
-| Gameplay - Truck View | Boost Active | Game Over Screen |
+| 2D Scene House in the Rainfall | Bullet Frenzy | Highway Escape |
 |:---------------------:|:------------:|:----------------:|
 | ![Truck Gameplay](screenshots/Screenshot%202026-09-24%20233008.png) | ![Boost](screenshots/Screenshot%202026-09-24%20233144.png) | ![Game Over](screenshots/Screenshot%202026-09-24%20233203.png) |
 
