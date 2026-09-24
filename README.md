@@ -22,7 +22,7 @@ A comprehensive collection of interactive 2D and 3D computer graphics projects a
 
 ### Highway Escape (3D Racing Game)
 
-| Menu Screen | Gameplay - Car View | Gameplay - Bus View |
+| DX Box | Gameplay - Car View | Gameplay - Bus View |
 |:-----------:|:-------------------:|:-------------------:|
 | ![Menu](screenshots/Screenshot%202026-09-24%20232900.png) | ![Car Gameplay](screenshots/Screenshot%202026-09-24%20232925.png) | ![Bus Gameplay](screenshots/Screenshot%202026-09-24%20232950.png) |
 
